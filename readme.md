@@ -4,6 +4,7 @@
 
 처음 리액트를 접하시는 분들께 추천할만한 글들입니다.
 
+-   [생활코딩 React](https://opentutorials.org/module/4058) <!--2019/04-->
 -   [\[번역\] react-howto](https://github.com/petehunt/react-howto/blob/master/README-ko.md) <!--2016/05-->
 -   [React 소개 및 맛보기](http://webframeworks.kr/tutorials/react/react-intro-and-give-it-a-try/) <!--2016-->
 -   [Velopert님의 텍스트 강좌](https://velopert.com/reactjs-tutorials) <!--2016/03-->
@@ -114,19 +115,6 @@
 
 ## 기여
 
-### 글 제보
-
-다음과 같은 조건이면 바로 PR을 보내주셔도 됩니다. 그리고 작성 년월도 PR에 커멘트로 알려주세요.
-
-- 완전히 번역된 글
-- 2017년 이후 글들
-
-이 조건에 해당하지 않는 경우 이슈를 열어주세요! 검토해보도록 하겠습니다.
-
-### 번역 요청
-
-번역이 필요한 문서들은 [새 이슈](https://github.com/Rokt33r/learn-react-in-korean/issues/new)를 만들어서 요청해주세요!
-
 ## 메인테이너
 
 [Junyoung Choi (Rokt33r)](https://github.com/rokt33r)
@@ -134,6 +122,10 @@
 ## Special Thanks
 
 [Eclatant](https://github.com/Eclatant)
+
+## 수정
+
+[Sihyun Kim](https://github.com/skim0726)
 
 ## License
 
