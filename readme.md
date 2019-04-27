@@ -4,6 +4,8 @@
 
 처음 리액트를 접하시는 분들께 추천할만한 글들입니다.
 
+-   [React 16 마스터하기](https://academy.nomadcoders.co/p/mastering-react-16) <!--2019/04-->
+-   [ReactJS로 웹 서비스 만들기](https://academy.nomadcoders.co/p/reactjs-fundamentals) <!--2019/04-->
 -   [생활코딩 React](https://opentutorials.org/module/4058) <!--2019/04-->
 -   [\[번역\] react-howto](https://github.com/petehunt/react-howto/blob/master/README-ko.md) <!--2016/05-->
 -   [React 소개 및 맛보기](http://webframeworks.kr/tutorials/react/react-intro-and-give-it-a-try/) <!--2016-->
